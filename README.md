@@ -1,4 +1,4 @@
-# DARKL AND LIGHT MODE WITH FLUTTER BLOC
+# DARK AND LIGHT MODE WITH FLUTTER BLOC
 
 
 ![lghtmode](https://github.com/alihanK/BLOCdarklightmode/assets/82571528/ace4da26-e937-42e7-9a30-3655beb6f189)
