@@ -1,16 +1,6 @@
-# darklightmodebloc
+# DARKL AND LIGHT MODE WITH FLUTTER BLOC PATTERN
 
-A new Flutter project.
+![lghtmode](https://github.com/alihanK/BLOCdarklightmode/assets/82571528/ace4da26-e937-42e7-9a30-3655beb6f189)
 
-## Getting Started
+![blkmode](https://github.com/alihanK/BLOCdarklightmode/assets/82571528/494b6dc1-f275-46b2-9b86-0fd482565be4)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
